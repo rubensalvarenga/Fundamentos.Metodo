@@ -1,0 +1,14 @@
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Metodo\Fundamentos.Metodo\obj\Debug\netcoreapp3.1\Fundamentos.Metodo.csproj.AssemblyReference.cache
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Metodo\Fundamentos.Metodo\obj\Debug\netcoreapp3.1\Fundamentos.Metodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Metodo\Fundamentos.Metodo\obj\Debug\netcoreapp3.1\Fundamentos.Metodo.AssemblyInfoInputs.cache
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Metodo\Fundamentos.Metodo\obj\Debug\netcoreapp3.1\Fundamentos.Metodo.AssemblyInfo.cs
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Metodo\Fundamentos.Metodo\obj\Debug\netcoreapp3.1\Fundamentos.Metodo.csproj.CoreCompileInputs.cache
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Metodo\Fundamentos.Metodo\bin\Debug\netcoreapp3.1\Fundamentos.Metodo.exe
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Metodo\Fundamentos.Metodo\bin\Debug\netcoreapp3.1\Fundamentos.Metodo.deps.json
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Metodo\Fundamentos.Metodo\bin\Debug\netcoreapp3.1\Fundamentos.Metodo.runtimeconfig.json
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Metodo\Fundamentos.Metodo\bin\Debug\netcoreapp3.1\Fundamentos.Metodo.runtimeconfig.dev.json
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Metodo\Fundamentos.Metodo\bin\Debug\netcoreapp3.1\Fundamentos.Metodo.dll
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Metodo\Fundamentos.Metodo\bin\Debug\netcoreapp3.1\Fundamentos.Metodo.pdb
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Metodo\Fundamentos.Metodo\obj\Debug\netcoreapp3.1\Fundamentos.Metodo.dll
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Metodo\Fundamentos.Metodo\obj\Debug\netcoreapp3.1\Fundamentos.Metodo.pdb
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Metodo\Fundamentos.Metodo\obj\Debug\netcoreapp3.1\Fundamentos.Metodo.genruntimeconfig.cache
